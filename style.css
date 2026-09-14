@@ -1,11 +1,11 @@
 body{
-background-color: #Ffffff;
+background-color: #D8C8B8;
 }
 
 /* navigation  Section*/
 .navbar{
     border-radius: 10px;
-    background-color: #FFC3C3;
+    background-color: #DFA6B8;
     padding: 20px ;
     box-shadow:0px 4px 8px rgba(0, 0, 0, 0.3);
     display: flex;
